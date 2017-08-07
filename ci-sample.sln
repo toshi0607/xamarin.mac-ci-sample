@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ci-sample", "ci-sample\ci-sample.csproj", "{B721AC55-AF2C-4199-9694-620FC06CC14F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B721AC55-AF2C-4199-9694-620FC06CC14F}.Debug|x86.ActiveCfg = Debug|x86
+		{B721AC55-AF2C-4199-9694-620FC06CC14F}.Debug|x86.Build.0 = Debug|x86
+		{B721AC55-AF2C-4199-9694-620FC06CC14F}.Release|x86.ActiveCfg = Release|x86
+		{B721AC55-AF2C-4199-9694-620FC06CC14F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
